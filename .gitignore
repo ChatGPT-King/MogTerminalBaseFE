@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+.next
+dist
+build
+
+# Cache directories
+.cache
+.cache/
+.bun
+.bun/
+**/*.node
+
+# Environment
+.env*
+
+# System
+.DS_Store
