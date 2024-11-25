@@ -114,7 +114,7 @@ export default function Navbar({
             <span className="mx-2">·</span>
           </div>
           <a
-            href="https://github.com/coinbase/onchain-agent-demo"
+            href="https://x.com/MogTerminal"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-zinc-300"
